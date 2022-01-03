@@ -1,0 +1,19 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "A föld lapos!",
+            "writer": "Trump"
+        },
+        {
+            "id": 2,
+            "title": "Soros 99% Gyurcsány!",
+            "writer": "Orbán Viktor"
+        },
+        {
+            "id": 3,
+            "title": "Hogyan csinálj gyereket",
+            "writer": "Novák Katalin"
+        }
+    ]
+}
